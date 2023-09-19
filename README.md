@@ -1,2 +1,2 @@
-# Basic-CRUD
+# Basic-Nodejs-CRUD
 Basic CRUD with Nodejs and Mysql
